@@ -1,0 +1,16 @@
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\bin\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.exe
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\bin\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.deps.json
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\bin\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.runtimeconfig.json
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\bin\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.dll
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\bin\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.pdb
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\WinFormsApp2___Survey_Form_Project.Form1.resources
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.AssemblyInfo.cs
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.dll
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\refint\WinFormsApp2 - Survey Form Project.dll
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.pdb
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\WinFormsApp2 - Survey Form Project.genruntimeconfig.cache
+D:\Visual Studio\Projects\WinFormsApp2 - Survey Form Project\obj\Debug\net8.0-windows\ref\WinFormsApp2 - Survey Form Project.dll
